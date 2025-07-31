@@ -34,6 +34,23 @@ A highly motivated full-stack developer with practical experience in building dy
 
 ---
 
+### 🧠 Coding Profiles
+
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/prakashpramanik1" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/prakashprann32/" target="_blank">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/prakashpramanik280/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+
 ### 💻 Skills & Technologies
 
 <p align="left">
@@ -55,30 +72,7 @@ A highly motivated full-stack developer with practical experience in building dy
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=dracula&row=1&no-frame=true"/>
-</p>
-
----
 
 ### 🚀 Quote of the Day
 
