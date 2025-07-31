@@ -12,10 +12,15 @@ A passionate full-stack developer with hands-on experience in building scalable 
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on: `AI-based Health Monitoring` & `FashionFusion`
-- 🌱 I’m learning: `Machine Learning`, `Advanced Backend`
-- 💬 Ask me about: **Web Development**, **Django**, **MERN**
-- ⚡ Fun fact: I play **Subway Surfers** as a brain refresher 🕹️
+- 💼 I’m currently working as an Associate Trainee at EngineersMind.
+
+- 🔭 I’m exploring ideas for my next exciting project.
+
+- 🌱 I’m expanding my skills and diving deeper into real-world applications.
+
+- 💬 Ask me about: Web Development, Django, MERN, Java, Spring Boot
+
+- ⚡ Fun fact: I play Subway Surfers as a brain refresher 🕹️
 
 ---
 
