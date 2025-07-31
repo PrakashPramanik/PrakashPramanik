@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍💻 Summary
-A passionate full-stack developer with hands-on experience in building scalable web applications using **MERN stack**, **Django**, and modern frontend tools. Eager to learn new technologies and build impactful solutions.
+A highly motivated full-stack developer with practical experience in building dynamic and scalable web applications using the MERN stack, Django, and Java Full Stack technologies. Proficient in crafting responsive frontends and robust backends, with a strong passion for learning emerging tools and frameworks. Dedicated to writing clean, efficient code and delivering meaningful digital experiences.
 
 ---
 
@@ -88,5 +88,5 @@ A passionate full-stack developer with hands-on experience in building scalable 
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
 
