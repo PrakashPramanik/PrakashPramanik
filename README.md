@@ -27,9 +27,9 @@ A highly motivated full-stack developer with practical experience in building dy
 ### 🤝 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR-USERNAME" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/prakash-pramanik/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YOUR-USERNAME" target="_blank"><img alt="GitHub" src="https://github.com/PrakashPramanik/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://prakashpramanik.github.io/PortFolio/badge/Portfolio-red?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
